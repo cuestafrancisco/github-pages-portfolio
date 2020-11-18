@@ -5,6 +5,7 @@ const repoURL = "https://github.com/cuestafrancisco/";
 ghpages.publish(
   pathname,
   {
+    //main not master
     branch: "main",
     repo: repoURL,
   },
