@@ -1,7 +1,7 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://cuestafrancisco.github.io/web-folio-hw4/",
+  "homepage": "https://cuestafrancisco.github.io/web-folio-hw4/index.html",
   "version": "0.1.0",
   "private": true,
   "author": {
